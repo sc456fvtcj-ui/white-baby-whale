@@ -6,8 +6,11 @@
 }
 
 body {
-  background: #0f1720;
-  color: #e6f1ff;
+  margin: 0;
+  font-family: 'Orbitron', sans-serif;
+  background: radial-gradient(circle at top, #0e1b2a, #02050a);
+  color: white;
+  overflow-x: hidden;
 }
 
 /* HERO */
